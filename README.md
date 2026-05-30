@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋 My name is Samsozzaman Palash ( Full Stack Developer )<br>🌍  I'm based in Bangladesh <br>✉️  You can contact me at samsozzaman.sp@gmail.com
+Hi 👋 My name is Samsozzaman Palash ( Full Stack Developer )<br>🌍  I'm based in Bangladesh <br>Full Stack Software Engineer with 5+ years of experience building scalable web applications, ERP systems, and SaaS products. I mainly work with PHP (Laravel), PostgreSQL, Redis, and modern JavaScript frameworks like React and Next.js. I enjoy designing clean RESTful APIs and building systems that can handle real-world scale and complexity. I’ve worked on building scalable backend systems with a strong focus on performance and reliability, where needed, along with caching strategies and Elasticsearch to improve search and application performance. I’m comfortable working across the full development lifecycle from planning and system design to deployment and production support using Docker, AWS, and DigitalOcean.<br/>
+I’ve collaborated with remote and international teams on products in logistics, ERP, and healthcare SaaS domains. I care a lot about writing maintainable code, building scalable systems, and improving engineering practices, and I also enjoy helping junior developers grow along the way.
 
 
 ## 🌐 Socials:
